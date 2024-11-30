@@ -1,3 +1,3 @@
 # Android app development
 
-The course teaches basic skills for Android app development using the official language. It covers Android Studio, app architecture, component lifecycles, design, animations, using sensors, external tools like Google Maps, and working with databases.
+The course provides basic knowledge and skills for developing Android apps using the official Android language (native development). It covers Android Studio, key concepts, app architecture, lifecycle of Android components, design and animation techniques, integration with external systems (e.g., Facebook, Google Maps), working with sensors, and using SQL and databases.
